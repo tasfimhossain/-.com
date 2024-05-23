@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>webpage</title>
 </head>
 <h1 style="text-align: ;"><img src="C:\Users\SUCCESS\Pictures\Saved Pictures\Untitled.png" width="100" height="100"><p style="color: red; text-align: center; font-size: 60px;"><b> টগর</b></p></h1>
    <p><i>Hello world...</i></p><br>
